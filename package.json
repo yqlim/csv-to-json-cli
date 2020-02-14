@@ -1,0 +1,22 @@
+{
+  "name": "csv-to-json-cli",
+  "version": "0.1.0",
+  "description": "Parse CSV content into JSON using CLI.",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "Yong Quan Lim",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yqlim/csv-to-json-cli.git"
+  },
+  "keywords": [
+    "csvtojson",
+    "csv-to-json",
+    "csv2json"
+  ],
+  "bugs": {
+    "url": "https://github.com/yqlim/csv-to-json-cli/issues"
+  },
+  "homepage": "https://github.com/yqlim/csv-to-json-cli#readme"
+}
